@@ -10,6 +10,7 @@ Too many files from _https://censys.io_ are lz4 format. the tools can deal them 
 
 
 **compress**
+
 `java -jar lz4.jar -e alexa-top1m.20180330T0205.csv`
 
 `java -jar lz4.jar -e alexa-top1m.20180330T0205.csv alexa-top1m.20180330T0205.csv.lz4`
