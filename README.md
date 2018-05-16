@@ -1,6 +1,6 @@
 The java command tool for compressing or uncomressing lz4 format file. 
 
-Too many files from _https://censys.io_ are lz4 format. the tools can deal them like:
+Too many files from _https://censys.io_ are lz4 format. The tools can deal them like:
 
 **uncompress:**
 
@@ -16,4 +16,4 @@ Too many files from _https://censys.io_ are lz4 format. the tools can deal them 
 `java -jar lz4.jar -e alexa-top1m.20180330T0205.csv alexa-top1m.20180330T0205.csv.lz4`
 
 
-You can download it from the relative path: classes/artifacts/lz4_jar/lz4.jar
+You can download it from the relative path: _classes/artifacts/lz4_jar/lz4.jar_
